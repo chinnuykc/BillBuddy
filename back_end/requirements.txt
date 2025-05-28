@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pymongo==4.6.3
+python-jose[cryptography]==3.3.0
+pydantic[email]
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+streamlit==1.38.0
+requests==2.32.3
